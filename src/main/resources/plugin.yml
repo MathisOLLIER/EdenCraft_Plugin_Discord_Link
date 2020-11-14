@@ -1,0 +1,10 @@
+name: GetDiscordUrl
+version: ${project.version}
+main: edencraft.plugin.getdiscordurl.getdiscordurl.GetDiscordUrl
+api-version: 1.16
+authors: [ Mathis ]
+description: Clickable link to Discord1
+commands:
+  discord:
+    description: Redirect to Discord server
+    usage : /<command>
